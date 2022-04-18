@@ -1,0 +1,87 @@
+html{
+    background-image: url("/ressources/bg_library.jpg");
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+.titre{
+    margin : 10px;
+    background-color: #806b4b;
+    width : 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imglogo{
+    width : 100%;
+}
+
+.lienupper{
+    background-color: #6d5a3d;
+    border-radius: 5px;
+    padding : 10px;
+    margin : 10px;
+}
+
+.imgicon{
+    width : 5%;
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:1680px;
+}
+
+ul{
+    margin-bottom: 1px
+}
+
+h2{
+    text-align: center;
+    margin-top: 5px
+}
+
+nav{
+    background-color: #806b4b;
+    padding : 13px;
+    border-radius: 10px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    width : 80%;
+}
+
+section{
+    background-color: #806b4b;
+    border-radius: 10px;
+    display: inline-flex;
+    text-align: left;
+    flex-wrap: wrap;
+    padding : 10px;
+    width : 80%;
+}
+
+article {
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 5px; 
+    margin-top: 5px; 
+    background-color: #6d5a3d;
+    flex-basis: 45%;
+    border-radius: 20px;
+}
+
+footer{
+    border-radius: 10px;
+    background-color: #806b4b;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width : 80%;
+    margin-bottom: 10px;
+}

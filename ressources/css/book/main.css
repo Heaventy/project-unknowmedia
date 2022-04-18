@@ -1,0 +1,129 @@
+html{
+    background-image: url("/ressources/bg_library.jpg");
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+.titre{
+    margin : 10px;
+    background-color: #806b4b;
+    width : 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imglogo{
+    width : 100%;
+}
+
+.imglivre{
+    float: left;
+    width : 55%;
+    border: outset;
+    border-color: #806b4b
+}
+
+.lienupper{
+    background-color: #6d5a3d;
+    border-radius: 5px;
+    padding : 10px;
+    margin : 10px;
+}
+
+.lienblock{
+    color: black
+}
+
+.titrelivre{
+    color : black;
+    background-color: #806b4b;
+    margin : 7px;
+    border-radius: 10px;
+}
+
+.ratingblock{
+    background-color: #806b4b;
+    border-radius: 10px;
+    padding-left: 57%
+}
+
+.textblock{
+    background-color: #806b4b;
+    border-radius: 10px;
+    padding: 0%;
+    padding-bottom: 0%;
+    padding-left: 57%;
+    font-size: 83%
+}
+
+.imgnew{
+    width : 20%;
+    float: center;
+}
+
+.imgcoupcoeur{
+    width : 20%;
+    float: center;
+}
+
+.imgrating{
+    width : 60%;
+    float: center;
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:1680px;
+}
+
+h2{
+    color : black;
+    font-family: inherit;
+    text-align: center;
+}
+
+nav{
+    background-color: #806b4b;
+    padding : 13px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width : 80%;
+}
+
+section{
+    background-color: #806b4b;
+    border-radius: 10px;
+    display: inline-flex;
+    text-align: left;
+    flex-wrap: wrap;
+    padding : 10px;
+    width : 80%;
+}
+
+article {
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #6d5a3d;
+    text-align: center;
+    flex-basis: 40%;
+    text-align: left;
+    border-radius: 20px;
+}
+
+footer{
+    border-radius: 10px;
+    background-color: #806b4b;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width : 80%;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,107 @@
+html{
+    background-image: url("/ressources/bg_music.jpg");
+	background-size: cover;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+.titre{
+    margin : 10px;
+    background-color: #282828;
+    width : 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imglogo{
+    width : 100%;
+}
+
+.lienupper{
+    background-color: #3D3D3D;
+    border-radius: 5px;
+    padding : 10px;
+    margin : 10px;
+}
+
+.imgicon{
+    width : 2%;
+    text-align: center
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:1680px;
+}
+
+a{
+	color: white;
+}
+
+h2{
+    font-family: inherit;
+    text-align: center;
+    margin-top: 10px
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td
+{
+    border: 1px solid black;
+    padding: 4%;
+    text-align: center
+}
+
+nav{
+    background-color: #282828;
+    padding : 13px;
+    border-radius: 10px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    width : 80%;
+}
+
+section{
+    background-color: #282828;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+    flex-wrap: wrap;
+    padding : 10px;
+    width : 80%;
+}
+
+article {
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 5px; 
+    margin-top: 5px; 
+    background-color: #3D3D3D;
+    text-align: center;
+    flex-basis: 45%;
+    text-align: left;
+    border-radius: 20px;
+	color: white;
+}
+
+footer{
+    border-radius: 10px;
+    background-color: #282828;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width : 80%;
+    margin-bottom: 10px;
+	color: white;
+}
